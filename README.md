@@ -21,6 +21,11 @@ Data are publicly available from the [ECB Data Portal](https://data.ecb.europa.e
 ## Results
 The analysis confirms a strong pass-through from the ECB policy rate to household and corporate lending rates, with different lags across loan categories.
 
+## Technologies used
+- Python 3
+- pandas, matplotlib, statsmodels
+- Jupyter Notebook
+
 ## Skills Demonstrated
 - Data management (cleaning, merging, resampling)
 - Statistical analysis (cross-correlation, OLS with lags)
